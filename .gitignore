@@ -1,0 +1,11 @@
+# build
+/build/build/
+/build/dist/
+/build/ExcelWithPic.spec
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
